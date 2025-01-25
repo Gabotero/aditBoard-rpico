@@ -1,0 +1,22 @@
+# Hashes of file build rules.
+22ab9dc5a4fd328646703a5d52d2bdc8 CMakeFiles/Aditboard_uart_rx_pio_h
+015f97a4b5b9e20475f1fb60d91010f2 pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_bin
+015f97a4b5b9e20475f1fb60d91010f2 pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_asm
+c3b0b710186aa1a58096037a51972e56 pico-sdk/src/rp2040/boot_stage2/CMakeFiles/picotoolBuild-complete
+4ee63decbcd0978d533392c0e72c626c pico-sdk/src/rp2040/boot_stage2/bs2_default.bin
+2bcbe165b4ee9df5e89903dd9258003b pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S
+0aa3d2a45427b393e1ea8231df9a2480 pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-configure
+29e9543b04a9b969ec80142d796ab7c1 pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-download
+ac5e796f41e9c1aad90a525bd52afd81 pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir
+9415cd7df629f5047158b700ecad5329 pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-patch
+c82e083ed8d8cd0b0600a3a71b386eba pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-test
+8763bd4a793dc81281ac573a00dff479 pico-sdk/src/rp2040/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-update
+290f49568e5a2fb952fe88d7d7c5c4c0 pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/cyw43_driver_picow_cyw43_bus_pio_spi_pio_h
+e269a2a2de1d7afc74ccdb58047a821f pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/pioasmBuild-complete
+fe25e2d45cc29d109b735cbaca52364c pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.pio.h
+276bfc99e74cb000eb3dfce9dd1fd426 pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp/pioasmBuild-configure
+ca68b0f8fe9f67b886126ab824b60819 pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp/pioasmBuild-download
+33a02993342ab3804e3779e8e3235f1b pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp/pioasmBuild-mkdir
+e633bf8a4eb84b2eb28c04668f7df7ce pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp/pioasmBuild-patch
+a02b4445ec59e6bd358065504cbd0d89 pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/pioasmBuild-stamp/pioasmBuild-update
+1eb84197a6364f6692d14aad3bcb6810 uart_rx.pio.h

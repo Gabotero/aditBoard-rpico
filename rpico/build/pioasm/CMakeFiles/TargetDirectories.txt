@@ -1,0 +1,7 @@
+/home/kali/Desktop/Mnr/aditboard/build/pioasm/CMakeFiles/pioasm.dir
+/home/kali/Desktop/Mnr/aditboard/build/pioasm/CMakeFiles/edit_cache.dir
+/home/kali/Desktop/Mnr/aditboard/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/kali/Desktop/Mnr/aditboard/build/pioasm/CMakeFiles/list_install_components.dir
+/home/kali/Desktop/Mnr/aditboard/build/pioasm/CMakeFiles/install.dir
+/home/kali/Desktop/Mnr/aditboard/build/pioasm/CMakeFiles/install/local.dir
+/home/kali/Desktop/Mnr/aditboard/build/pioasm/CMakeFiles/install/strip.dir
